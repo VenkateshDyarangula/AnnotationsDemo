@@ -1,0 +1,16 @@
+C:\Users\venky\source\repos\AnnotationsDemo\bin\Debug\netcoreapp3.1\AnnotationsDemo.exe
+C:\Users\venky\source\repos\AnnotationsDemo\bin\Debug\netcoreapp3.1\AnnotationsDemo.deps.json
+C:\Users\venky\source\repos\AnnotationsDemo\bin\Debug\netcoreapp3.1\AnnotationsDemo.runtimeconfig.json
+C:\Users\venky\source\repos\AnnotationsDemo\bin\Debug\netcoreapp3.1\AnnotationsDemo.runtimeconfig.dev.json
+C:\Users\venky\source\repos\AnnotationsDemo\bin\Debug\netcoreapp3.1\AnnotationsDemo.dll
+C:\Users\venky\source\repos\AnnotationsDemo\bin\Debug\netcoreapp3.1\AnnotationsDemo.pdb
+C:\Users\venky\source\repos\AnnotationsDemo\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\venky\source\repos\AnnotationsDemo\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\venky\source\repos\AnnotationsDemo\obj\Debug\netcoreapp3.1\AnnotationsDemo.csprojAssemblyReference.cache
+C:\Users\venky\source\repos\AnnotationsDemo\obj\Debug\netcoreapp3.1\AnnotationsDemo.AssemblyInfoInputs.cache
+C:\Users\venky\source\repos\AnnotationsDemo\obj\Debug\netcoreapp3.1\AnnotationsDemo.AssemblyInfo.cs
+C:\Users\venky\source\repos\AnnotationsDemo\obj\Debug\netcoreapp3.1\AnnotationsDemo.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\repos\AnnotationsDemo\obj\Debug\netcoreapp3.1\AnnotationsDemo.csproj.CopyComplete
+C:\Users\venky\source\repos\AnnotationsDemo\obj\Debug\netcoreapp3.1\AnnotationsDemo.dll
+C:\Users\venky\source\repos\AnnotationsDemo\obj\Debug\netcoreapp3.1\AnnotationsDemo.pdb
+C:\Users\venky\source\repos\AnnotationsDemo\obj\Debug\netcoreapp3.1\AnnotationsDemo.genruntimeconfig.cache
